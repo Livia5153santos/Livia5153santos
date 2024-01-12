@@ -1,25 +1,45 @@
-# Olá Mundo, sou a Lívia Santos 👋
+<div align="center">
+  <h1>Hello World, I'm Lívia Santos 👋</h1>
+</div>
 
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%ADvia-csantos/)
+<div align="center">
+  <h3>📊 Data Science & Tech</h1>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Livia5153santos)
 
-## Habilidades
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-fcba03.svg?style=for-the-badge&logo=amazon-aws&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-090712?style=for-the-badge&logo=gmail&logoColor=yellow)](mailto:https://mail.google.com/mail/u/0/#inbox)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090712?style=for-the-badge&logo=linkedin&logoColor=yellow)](https://www.linkedin.com/in/l%C3%ADvia-csantos/)
+[![GitHub](https://img.shields.io/badge/GitHub-090712?style=for-the-badge&logo=github&logoColor=yellow)](https://github.com/Livia5153santos)
+***
+### 🎯  **Skills**
+Olá! 👋
 
-## Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=livia5153santos&theme=transparent&bg_color=350263&border_color=30A3DC&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
+Eu sou a Lívia, aspirante a Cientista de Dados, 🎓 Formada em Geografia Bacharelado. Apaixonada por organização de dados e insits produzindo gráficos, mapas e dashboards.
 
-## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=livia5153santos&repo=Desafio-de-Projeto&bg_color=350263&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Livia5153santos/Desafio-de-Projeto)
+## 🛠 Tech Stack
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=livia5153santos&repo=dio-lab-open-source&bg_color=350263&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Livia5153santos/dio-lab-open-source)
+💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-f9faf5?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Python](https://img.shields.io/badge/python-f9faf5?style=for-the-badge&logo=python&logoColor=2073f7)
+
+⚡ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-f5f5f0?style=for-the-badge&logo=mysql&logoColor=blue)
+![AWS](https://img.shields.io/badge/AWS-f5f5f0.svg?style=for-the-badge&logo=amazon-aws&logoColor=yellow)
+![Git](https://img.shields.io/badge/GIT-f5f5f0?style=for-the-badge&logo=git&logoColor=red)
+
+## GitHub Stats
+
+>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Livia5153santos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
+>![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Livia5153santos&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## My Contributions
+
+>[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Livia5153santos&repo=Desafio-Projeto-Heroi-DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/Livia5153santos/Desafio-Projeto-Heroi-DIO))
+>[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Livia5153santos&repo=Desafio-de-Codigo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/SEUUSERNAME/SEUREPOSITORIO](https://github.com/Livia5153santos/Desafio-de-Codigo))
+
 
 
 <!---
