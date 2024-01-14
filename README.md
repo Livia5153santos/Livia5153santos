@@ -35,6 +35,7 @@ Eu sou a Lívia, aspirante a Cientista de Dados, 🎓 Formada em Geografia Bacha
 ![Git](https://img.shields.io/badge/GIT-f5f5f0?style=for-the-badge&logo=git&logoColor=red)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-f5f5f0?style=for-the-badge&logo=microsoft-excel&logoColor=green)
 ![Power BI](https://img.shields.io/badge/Power_BI-F5f5f0?style=for-the-badge&logo=Power%20BI&logoColor=yellow)
+![QGIS](https://img.shields.io/badge/qgis-3.28_firenze-f5f5f0?&style=for-the-badge&logo=qgis&logoColor=green)
 
 ## GitHub Stats
 
