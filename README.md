@@ -2,33 +2,39 @@
   <h1>Hello World, I'm Lívia Santos 👋</h1>
 </div>
 
+<div align="center">
+  <img src="nagatoro.gif">
+</div>
+
 
 <div align="center">
   <h3>📊 Data Science & Tech</h1>
 </div>
 
+<div align="center">
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-090712?style=for-the-badge&logo=gmail&logoColor=yellow)](mailto:https://mail.google.com/mail/u/0/#inbox)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090712?style=for-the-badge&logo=linkedin&logoColor=yellow)](https://www.linkedin.com/in/l%C3%ADvia-csantos/)
-[![GitHub](https://img.shields.io/badge/GitHub-090712?style=for-the-badge&logo=github&logoColor=yellow)](https://github.com/Livia5153santos)
+
+</div>
+
 ***
-### 🎯  **Skills**
+## 🎯  **Skills**
 Olá! 👋
 
-Eu sou a Lívia, aspirante a Cientista de Dados, 🎓 Formada em Geografia Bacharelado. Apaixonada por organização de dados e insits produzindo gráficos, mapas e dashboards.
+Eu sou a Lívia, aspirante a Cientista de Dados, 🎓 Formada em Geografia Bacharelado. Apaixonada por organização de dados e insights produzindo gráficos, mapas e dashboards.
 
 ## 🛠 Tech Stack
-
-💻 Languages
+ 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f9faf5?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Python](https://img.shields.io/badge/python-f9faf5?style=for-the-badge&logo=python&logoColor=2073f7)
-
-⚡ Database
-
 ![MySQL](https://img.shields.io/badge/MySQL-f5f5f0?style=for-the-badge&logo=mysql&logoColor=blue)
 ![AWS](https://img.shields.io/badge/AWS-f5f5f0.svg?style=for-the-badge&logo=amazon-aws&logoColor=yellow)
 ![Git](https://img.shields.io/badge/GIT-f5f5f0?style=for-the-badge&logo=git&logoColor=red)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-f5f5f0?style=for-the-badge&logo=microsoft-excel&logoColor=green)
+![Power BI](https://img.shields.io/badge/Power_BI-F5f5f0?style=for-the-badge&logo=Power%20BI&logoColor=yellow)
 
 ## GitHub Stats
 
